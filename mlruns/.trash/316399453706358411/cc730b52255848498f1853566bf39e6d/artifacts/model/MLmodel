@@ -1,0 +1,37 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.19.0
+model_size_bytes: 61169936
+model_uuid: 50eab43bf79e45bf92ce699f73ea816d
+run_id: cc730b52255848498f1853566bf39e6d
+signature:
+  inputs: '[{"type": "long", "name": "no_of_adults", "required": true}, {"type": "long",
+    "name": "no_of_children", "required": true}, {"type": "long", "name": "no_of_weekend_nights",
+    "required": true}, {"type": "long", "name": "no_of_week_nights", "required": true},
+    {"type": "string", "name": "type_of_meal_plan", "required": true}, {"type": "long",
+    "name": "required_car_parking_space", "required": true}, {"type": "string", "name":
+    "room_type_reserved", "required": true}, {"type": "long", "name": "lead_time",
+    "required": true}, {"type": "long", "name": "arrival_year", "required": true},
+    {"type": "long", "name": "arrival_month", "required": true}, {"type": "long",
+    "name": "arrival_date", "required": true}, {"type": "string", "name": "market_segment_type",
+    "required": true}, {"type": "long", "name": "repeated_guest", "required": true},
+    {"type": "long", "name": "no_of_previous_cancellations", "required": true}, {"type":
+    "long", "name": "no_of_previous_bookings_not_canceled", "required": true}, {"type":
+    "double", "name": "avg_price_per_room", "required": true}, {"type": "long", "name":
+    "no_of_special_requests", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2025-01-19 04:32:25.219891'

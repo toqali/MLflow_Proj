@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/user/Desktop/Mlflow_Proj/mlruns/316399453706358411/76aace73111e4b849c766d23e88c8f23/artifacts
+deleted_time: 1737271526498
+end_time: 1737263074905
+entry_point_name: ''
+experiment_id: '316399453706358411'
+lifecycle_stage: deleted
+run_id: 76aace73111e4b849c766d23e88c8f23
+run_name: loud-ray-852
+run_uuid: 76aace73111e4b849c766d23e88c8f23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737263074309
+status: 4
+tags: []
+user_id: user

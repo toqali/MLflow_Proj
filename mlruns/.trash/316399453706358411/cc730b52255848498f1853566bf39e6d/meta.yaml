@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/user/Desktop/Mlflow_Proj/mlruns/316399453706358411/cc730b52255848498f1853566bf39e6d/artifacts
+deleted_time: 1737271526498
+end_time: 1737261172509
+entry_point_name: ''
+experiment_id: '316399453706358411'
+lifecycle_stage: deleted
+run_id: cc730b52255848498f1853566bf39e6d
+run_name: valuable-stoat-344
+run_uuid: cc730b52255848498f1853566bf39e6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737261135088
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Desktop/Mlflow_Proj/mlruns/579791078887025660/bcc7fac84f8645379e0406a1486ea47d/artifacts
+end_time: 1737272291631
+entry_point_name: ''
+experiment_id: '579791078887025660'
+lifecycle_stage: active
+run_id: bcc7fac84f8645379e0406a1486ea47d
+run_name: SVMwithDefault
+run_uuid: bcc7fac84f8645379e0406a1486ea47d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737272291318
+status: 3
+tags: []
+user_id: user

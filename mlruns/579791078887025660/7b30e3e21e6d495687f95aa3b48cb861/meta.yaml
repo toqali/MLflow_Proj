@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Desktop/Mlflow_Proj/mlruns/579791078887025660/7b30e3e21e6d495687f95aa3b48cb861/artifacts
+end_time: 1737272287176
+entry_point_name: ''
+experiment_id: '579791078887025660'
+lifecycle_stage: active
+run_id: 7b30e3e21e6d495687f95aa3b48cb861
+run_name: RanForestwithDefault
+run_uuid: 7b30e3e21e6d495687f95aa3b48cb861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737272286807
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Desktop/Mlflow_Proj/mlruns/579791078887025660/26e0afd7290e4a43834702c962d1510b/artifacts
+end_time: 1737272289566
+entry_point_name: ''
+experiment_id: '579791078887025660'
+lifecycle_stage: active
+run_id: 26e0afd7290e4a43834702c962d1510b
+run_name: LogRegwithDefault
+run_uuid: 26e0afd7290e4a43834702c962d1510b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737272289328
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/user/Desktop/Mlflow_Proj/mlruns/316399453706358411/add847960a8f4a05a70cb03294aa63d9/artifacts
+deleted_time: 1737271526498
+end_time: 1737262153812
+entry_point_name: ''
+experiment_id: '316399453706358411'
+lifecycle_stage: deleted
+run_id: add847960a8f4a05a70cb03294aa63d9
+run_name: lyrical-lynx-183
+run_uuid: add847960a8f4a05a70cb03294aa63d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737262142043
+status: 3
+tags: []
+user_id: user

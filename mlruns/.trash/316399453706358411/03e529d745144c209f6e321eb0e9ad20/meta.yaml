@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/user/Desktop/Mlflow_Proj/mlruns/316399453706358411/03e529d745144c209f6e321eb0e9ad20/artifacts
+deleted_time: 1737271526498
+end_time: 1737263385953
+entry_point_name: ''
+experiment_id: '316399453706358411'
+lifecycle_stage: deleted
+run_id: 03e529d745144c209f6e321eb0e9ad20
+run_name: abrasive-stag-852
+run_uuid: 03e529d745144c209f6e321eb0e9ad20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737263098995
+status: 3
+tags: []
+user_id: user
